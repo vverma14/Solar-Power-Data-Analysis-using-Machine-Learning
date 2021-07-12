@@ -1,2 +1,2 @@
 # Solar-Power-Data-Analysis-using-Machine-Learning
-This is the code for a project done at ASU for gaining insights in the solar power industry. Used machine learning concepts to learn useful information between Weather, Panel Temperature, Ambient Temperature and Panel energy output.  Aplied Linear Regerssion, K-Means and also experimented with Bayesian classifier. More info can be found in the pdf file uploaded.
+Used machine learning to gain insights in the solar power industry using raw data. Used machine learning concepts to learn useful information between Weather, Panel Temperature, Ambient Temperature and Panel energy output.  Aplied Linear Regerssion, K-Means and also experimented with Bayesian classifier. More info can be found in the pdf file uploaded.
